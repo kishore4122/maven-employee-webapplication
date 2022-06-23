@@ -1,4 +1,4 @@
-[![Build Status](http://13.126.7.100:8080/job/BuildStatus/badge/icon)](http://13.126.7.100:8080/job/BuildStatus/)
+http://13.126.7.100:8080/buildStatus/icon?job=BuildStatus
 
 
 #  Sample Maven Application: maven-employee-web-application
